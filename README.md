@@ -2,7 +2,7 @@
 
 ---
 **Professor:** José Eduardo Storopoli [link](https://github.com/storopoli)<p>
-**Autores:** Daniel Zanad [link](https://github.com/DanielZanad)<br>
+**Autores:** <br> Daniel Zanad [link](https://github.com/DanielZanad)
 Maicon Lidemi [link](https://github.com/annderlau)<br>
 Matheus Siqueira Silva [link](https://github.com/slvsccp)<br>
 Lucas Gomes [link](https://github.com/GFLucas8)<br>
