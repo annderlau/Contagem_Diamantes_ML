@@ -1,7 +1,7 @@
 # Atividade com o objetivo de desenvolver e treinar um algoritmo de regressão linear para prever o preço de um diamante.
 
 ---
-**Professor:** José Eduardo Storopoli [link](https://github.com/storopoli)<br>
+**Professor:** José Eduardo Storopoli [link](https://github.com/storopoli)<p>
 **Autores:** Daniel Zanad [link](https://github.com/DanielZanad)<br>
 Maicon Lidemi [link](https://github.com/annderlau)<br>
 Matheus Siqueira Silva [link](https://github.com/slvsccp)<br>
