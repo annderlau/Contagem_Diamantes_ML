@@ -32,7 +32,3 @@ O dataset diamonds foi baixado pelo Kaggle e pode ser encontrado neste [link](ht
 3. Fazer alguns gráficos dos dados com o matplotlib.pyplot
 4. Preparar os dados para o Scikit-Learn
 5. Treinar um modelo LinearRegression do Scikit-Learn para prever o price do diamante
-
-
-PARTE SOMENTE NO SOBRE:
-Atividade desenvolvida a fim de obter nota para a matéria de Programação de Análise e Desenvolvimento de Sistemas
