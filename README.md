@@ -4,7 +4,7 @@
 **Professor:** José Eduardo Storopoli [link](https://github.com/storopoli)<br>
 **Autores:** Daniel Zanad [link](https://github.com/DanielZanad)<br>
 Maicon Lidemi [link](https://github.com/annderlau)<br>
-Matheus Siqueira Silva (https://github.com/slvsccp).<br>
+Matheus Siqueira Silva [link](https://github.com/slvsccp).<br>
 
 
 ## Tecnologias utilizadas:
