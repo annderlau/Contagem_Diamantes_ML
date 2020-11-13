@@ -7,6 +7,8 @@
 <br> Matheus Siqueira Silva [link](https://github.com/slvsccp)
 <br> Lucas Gomes [link](https://github.com/GFLucas8)
 <br> Mônica Cristina Meireles [link](https://github.com/meireles89)
+  
+ **Data:** 11/10/2020
 
 ## Tecnologias utilizadas:
 - **Google Colab**
